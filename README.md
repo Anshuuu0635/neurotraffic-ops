@@ -1,4 +1,4 @@
-<img width="1704" height="985" alt="Screenshot 2026-08-21 at 11 13 26 PM" src="https://github.com/user-attachments/assets/025f3153-1833-43df-bf0c-7d511d85c5dd" /># NeuroTraffic Ops: AI Traffic Police System
+NeuroTraffic Ops: AI Traffic Police System
 
 ## 👁️ Project Overview
 NeuroTraffic Ops is an intelligent, low-latency urban surveillance suite designed to automate traffic monitoring. Built for the MIC AIML Department Recruitment Challenge (Computer Vision Track), this platform ingests raw street-level visual feeds and converts them into structured, actionable telemetry data using a dual-node deep learning architecture.
