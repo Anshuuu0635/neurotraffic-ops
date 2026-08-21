@@ -10,10 +10,9 @@ Modern traffic authorities require automated, real-time systems to monitor roads
 To run this dashboard locally, ensure you have Python 3.8+ installed.
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Anshuuu0635/neurotraffic-ops.git](https://github.com/Anshuuu0635/neurotraffic-ops.git)
-   cd neurotraffic-ops
-   '''
+  git clone https://github.com/Anshuuu0635/neurotraffic-ops.git
+     cd neurotraffic-ops
+   ```
 ## 🗄️ Dataset Used
 This project strictly utilizes the Mandatory Traffic Image Dataset provided by the MIC AIML department for Part 1 (Foundations). This dataset was critical for evaluating the baseline accuracy of vehicle classification (cars, buses, bikes, and trucks) and validating spatial counts.
 
