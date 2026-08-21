@@ -56,5 +56,5 @@ Traffic Density Heatmaps: Storing bounding box coordinate data over time to gene
 
 Temporal Tracking: Implementing DeepSORT to track identical vehicles across multiple frames to calculate average speed and detect speeding violations.
 
-##📸 Dashboard Screenshot
+## 📸 Dashboard Screenshot
 <img width="1704" height="985" alt="Screenshot 2026-08-21 at 11 13 26 PM" src="https://github.com/user-attachments/assets/fdece6ea-6501-46c7-8edd-2ac0cab8c6ec" />
