@@ -49,7 +49,7 @@ The system successfully processes high-density street images, yielding accurate 
 Occlusion in Dense Traffic: Vehicles blocking each other resulted in merged bounding boxes. This was mitigated by fine-tuning the model's IoU threshold to allow for overlapping detection.!
 Latency vs. Accuracy: Balancing a high-resolution image size (imgsz=1280) for better accuracy against processing speed required careful decoupling of the detection and classification matrices.
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 Multi-Camera Support (Stretch Goal): Expanding the async dashboard to handle parallel video streams from multiple CCTVs simultaneously.
 
 Traffic Density Heatmaps: Storing bounding box coordinate data over time to generate thermal representations of traffic bottlenecks.
